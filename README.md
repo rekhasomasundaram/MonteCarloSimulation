@@ -13,4 +13,5 @@ java -jar dist/MonteCarloSimulation-0.0.1-SNAPSHOT.jar
 
 ##To Compile from source
 mvn clean install
+
 mvn exec:java
